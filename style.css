@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+.header{
+  background-color: black;
+  padding: 80px;
+}
+.logo {
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.logo img {
+  width: 1000px;
+  height: 200px;
+}
+
+.content {
+  text-align: left;
+  margin: 0 auto;
+  width: 1400px;
+  padding: 20px;
+}
+button {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 20px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
